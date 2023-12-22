@@ -1,0 +1,6 @@
+[submodule "deskapp_backend"]
+	path = deskapp_backend
+	url = https://github.com/Deeerain/deskapp_backend.git
+[submodule "deskapp_frontend"]
+	path = deskapp_frontend
+	url = https://github.com/Deeerain/deskapp_frontend.git
